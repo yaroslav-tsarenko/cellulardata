@@ -1,0 +1,91 @@
+.device-but-impossible,
+.mobile-data-is2 {
+  margin: 0;
+}
+.mobile-data-is-container2 {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-3110 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  background-image: url(/public/link--heading-3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 1;
+}
+.how-do-i10,
+.or-windows-112 {
+  margin: 0;
+}
+.how-do-i-container13 {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-heading-3111 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.3px 0 15px;
+  background-image: url(/public/link--heading-316@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 2;
+  margin-top: -0.1px;
+}
+.can-i-make {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.article-links13,
+.link-heading-3112 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-heading-3112 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 14.4px 0 15px;
+  background-image: url(/public/link--heading-33@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 3;
+  margin-top: -0.1px;
+}
+.article-links13 {
+  width: 685px;
+  flex-direction: column;
+  max-width: 100%;
+  text-align: left;
+  font-size: 21px;
+  color: #000;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 450px) {
+  .can-i-make,
+  .how-do-i-container13,
+  .mobile-data-is-container2 {
+    font-size: 17px;
+    line-height: 20px;
+  }
+}

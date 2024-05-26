@@ -1,0 +1,132 @@
+.ubigi-app-starssvg-icon {
+  width: 189.5px;
+  height: 80px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  z-index: 1;
+}
+.get-ready-for,
+.not-travelling-yet,
+.with-the-ubigi-app {
+  display: block;
+}
+.not-travelling-yet-container {
+  margin: 0;
+  position: relative;
+  line-height: 48px;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.install-the-ubigi,
+.so-its-ready-to {
+  display: block;
+}
+.install-the-ubigi-container {
+  margin: 0;
+  position: relative;
+  font-size: 18px;
+  line-height: 27px;
+  z-index: 1;
+}
+.app-install-description {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9.5px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.ubigi-qr-codesvg-icon {
+  width: 88px;
+  height: 88px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.qr-code-image {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2.6px;
+}
+.download-the-ubigi {
+  position: relative;
+  line-height: 28px;
+  z-index: 1;
+}
+.link-ubigi-app-store-badges,
+.link-ubigi-google-play-badge {
+  align-self: stretch;
+  width: 144px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 48px;
+  z-index: 1;
+}
+.link-ubigi-google-play-badge {
+  width: 161.8px;
+  object-fit: cover;
+}
+.app-install-qr-code,
+.download-app,
+.store-badges,
+.ubigi-app-starssvg-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.app-install-qr-code,
+.download-app,
+.ubigi-app-starssvg-parent {
+  flex-direction: column;
+  gap: 20px;
+  max-width: 100%;
+}
+.app-install-qr-code,
+.ubigi-app-starssvg-parent {
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 24px;
+  font-size: 24px;
+}
+.ubigi-app-starssvg-parent {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 29.6px;
+  text-align: left;
+  font-size: 40px;
+  color: #000;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 900px) {
+  .not-travelling-yet-container {
+    font-size: 32px;
+    line-height: 38px;
+  }
+  .app-install-qr-code {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .not-travelling-yet-container {
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .download-the-ubigi {
+    font-size: 19px;
+    line-height: 22px;
+  }
+  .store-badges {
+    flex-wrap: wrap;
+  }
+}

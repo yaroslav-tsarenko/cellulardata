@@ -1,0 +1,65 @@
+.svg-icon32 {
+  height: 60px;
+  width: 60px;
+  position: relative;
+}
+.svg-wrapper2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+}
+.heading-47 {
+  flex: 1;
+  position: relative;
+  line-height: 28px;
+}
+.heading-4-create-your-accoun-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 29px;
+}
+.enjoy,
+.to-start-using,
+.your-balance-and {
+  display: block;
+}
+.to-start-using-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 17.3px;
+  line-height: 22px;
+  color: #212529;
+}
+.frame-parent4,
+.scan-q-r-instructions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent4 {
+  align-self: stretch;
+  gap: 4px;
+}
+.scan-q-r-instructions {
+  flex: 1;
+  gap: 23px;
+  min-width: 185px;
+  text-align: center;
+  font-size: 23.8px;
+  color: #000;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 450px) {
+  .heading-47 {
+    font-size: 19px;
+    line-height: 22px;
+  }
+}

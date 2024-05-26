@@ -1,0 +1,374 @@
+.link-svg18 {
+  align-self: stretch;
+  height: 44px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.svg-link {
+  width: 122.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 14px 0 0;
+  box-sizing: border-box;
+}
+.buy-an-esim2 {
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+.buy-an-esim-data-plan-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.vertical-divider8 {
+  height: 31.5px;
+  width: 1px;
+  position: relative;
+  background-color: #2f2f2f;
+}
+.right-header,
+.topup-container {
+  display: flex;
+  justify-content: flex-start;
+}
+.topup-container {
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 17.1px;
+}
+.right-header {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 4.5px 0 0;
+}
+.get-started2 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  color: inherit;
+  display: inline-block;
+  min-width: 102px;
+  white-space: nowrap;
+}
+.get-started-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 2px 0 0;
+}
+.vertical-divider9 {
+  height: 31.5px;
+  width: 1px;
+  position: relative;
+  background-color: #2f2f2f;
+}
+.top-up2 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  color: inherit;
+  display: inline-block;
+  min-width: 57px;
+  white-space: nowrap;
+}
+.account-link {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.vertical-divider-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 16.8px;
+}
+.my-account-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4.5px 3px 0 0;
+}
+.vertical-divider10 {
+  width: 1px;
+  height: 31.5px;
+  position: relative;
+  background-color: #2f2f2f;
+}
+.business-divider1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4.5px 0 0;
+}
+.help-center2 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  color: inherit;
+  display: inline-block;
+  min-width: 103px;
+  white-space: nowrap;
+}
+.help-center-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 3px 0 0;
+}
+.vertical-divider11 {
+  width: 1px;
+  height: 31.5px;
+  position: relative;
+  background-color: #2f2f2f;
+}
+.business-logo {
+  width: 11.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4.5px 10px 0 0;
+  box-sizing: border-box;
+}
+.link-ubigi-cartsvg2 {
+  align-self: stretch;
+  height: 28px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.partners-link {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.link4 {
+  align-self: stretch;
+  width: 124.9px;
+}
+.partners2 {
+  text-decoration: none;
+  width: 99.2px;
+  position: relative;
+  line-height: 22px;
+  text-transform: uppercase;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.svg-icon21 {
+  width: 12px;
+  height: 7px;
+  position: relative;
+}
+.button6,
+.partners-icon,
+.partners1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.partners-icon {
+  flex-direction: column;
+  padding: 6px 0 0;
+}
+.button6,
+.partners1 {
+  flex-direction: row;
+}
+.button6 {
+  width: 154px;
+  border-radius: 24px;
+  background-color: #fff;
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  padding: 8px 14px;
+  gap: 7.8px;
+}
+.partners1 {
+  align-self: stretch;
+  flex: 1;
+  gap: 14.5px;
+  max-width: 100%;
+}
+.link-my-account2 {
+  align-self: stretch;
+  width: 72px;
+  position: relative;
+  border-radius: 30px;
+  max-height: 100%;
+  min-height: 44px;
+}
+.lower-header {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px 0 0;
+  box-sizing: border-box;
+  gap: 15px;
+  max-width: 100%;
+  text-align: center;
+  color: #000;
+  font-family: Roboto;
+}
+.link-svg19 {
+  width: 28px;
+  height: 28px;
+  position: relative;
+}
+.account-icon,
+.background17 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7.5px 0 0;
+}
+.background17 {
+  align-self: stretch;
+  height: 75px;
+  background-color: #000;
+  flex-direction: row;
+  padding: 15.5px 20px 15.5px 25px;
+  box-sizing: border-box;
+  gap: 16.7px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+.image-icon17 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.assistance2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 60px;
+  font-weight: 600;
+  font-family: inherit;
+  z-index: 1;
+}
+.answers-solutions,
+.ubigi-esim-services,
+.your-questions-while {
+  margin: 0;
+}
+.answers-solutions-container {
+  position: relative;
+  font-size: 38.3px;
+  line-height: 48px;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.background18,
+.main1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.background18 {
+  background-color: #000;
+  overflow: hidden;
+  padding: 48px 20px 54px 852px;
+  box-sizing: border-box;
+  position: relative;
+  margin-top: -2px;
+}
+.main1 {
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  text-align: left;
+  font-size: 50px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1725px) {
+  .buy-an-esim-data-plan-wrapper,
+  .buy-an-esim2 {
+    display: none;
+  }
+}
+@media screen and (max-width: 1325px) {
+  .background18 {
+    padding-left: 426px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .assistance2 {
+    font-size: 40px;
+    line-height: 48px;
+  }
+  .answers-solutions-container {
+    font-size: 31px;
+    line-height: 38px;
+  }
+  .background18 {
+    padding-left: 213px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .assistance2 {
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .answers-solutions-container {
+    font-size: 23px;
+    line-height: 29px;
+  }
+  .background18 {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+}

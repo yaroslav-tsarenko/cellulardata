@@ -1,0 +1,211 @@
+.en-android-1-1png-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 222.6px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.backgroundborder3 {
+  position: absolute;
+  top: 165px;
+  left: 135px;
+  border-radius: 60px;
+  background-color: #e41c68;
+  border: 8px solid #e41c68;
+  box-sizing: border-box;
+  width: 120px;
+  height: 120px;
+  z-index: 1;
+}
+.en-android-1-1png-parent {
+  height: 475px;
+  width: 255px;
+  position: relative;
+}
+.step-1-1png-icon {
+  height: 69px;
+  width: 40.5px;
+  position: absolute;
+  margin: 0 !important;
+  top: -12.5px;
+  left: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.first-check-if,
+.your-device {
+  display: block;
+}
+.first-check-if-container {
+  margin: 0;
+  position: relative;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 300;
+}
+.esims-youll-see,
+.go-to-settings {
+  display: block;
+}
+.go-to-settings-container {
+  margin: 0;
+  position: relative;
+  line-height: 22px;
+}
+.settings-instruction {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 4px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 18px;
+}
+.go-to-step {
+  text-decoration: underline;
+  color: #008fa4;
+}
+.if-your-esim-container {
+  margin: 0;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+}
+.if-no-esim {
+  color: #000;
+}
+.get-started4 {
+  text-decoration: underline;
+  color: #008fa4;
+}
+.for-your-device,
+.if-no-esim-is-installed-yet-g {
+  display: block;
+}
+.if-no-esim-container {
+  margin: 0;
+  position: relative;
+  line-height: 22px;
+}
+.if-you-deleted-your-esim-profi {
+  display: block;
+}
+.link13 {
+  text-decoration: underline;
+}
+.link12 {
+  display: block;
+  color: #008fa4;
+}
+.if-you-deleted-container {
+  margin: 0;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+}
+.e-s-i-m-check {
+  flex-direction: column;
+  gap: 6px;
+}
+.e-s-i-m-check,
+.step-description,
+.steps {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.step-description {
+  flex-direction: column;
+  padding: 62.5px 0 0;
+  box-sizing: border-box;
+}
+.steps {
+  flex-direction: row;
+  position: relative;
+}
+.image-icon14 {
+  width: 32px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+}
+.divider-image,
+.image-wrapper1 {
+  display: flex;
+  align-items: flex-start;
+}
+.divider-image {
+  height: 227.5px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 167.5px 0 0;
+  box-sizing: border-box;
+}
+.image-wrapper1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.link-button {
+  height: 46px;
+  width: 147.3px;
+}
+.button-container1 {
+  width: 1181.9px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.button-container1,
+.image-container-wrapper,
+.image-container1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.image-container1 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 22.5px;
+}
+.image-container-wrapper {
+  width: 1611.3px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 60px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 17.2px;
+  color: #000;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1325px) {
+  .image-wrapper1 {
+    flex-wrap: wrap;
+  }
+  .image-container-wrapper {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .first-check-if-container {
+    font-size: 19px;
+    line-height: 22px;
+  }
+}

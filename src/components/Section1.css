@@ -1,0 +1,412 @@
+.heading-12,
+.why-ubigi-container {
+  display: flex;
+  justify-content: center;
+}
+.heading-12 {
+  margin: 0;
+  width: 606.1px;
+  position: relative;
+  font-size: inherit;
+  line-height: 38px;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.why-ubigi-container {
+  width: 1314px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 3px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.svg-icon36 {
+  height: 60px;
+  width: 60px;
+  position: relative;
+}
+.benefit-icon-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+}
+.heading-51 {
+  flex: 1;
+  position: relative;
+  line-height: 28px;
+}
+.benefit-title-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 44px;
+}
+.and-scan-it,
+.get-a-qr {
+  margin: 0;
+}
+.get-a-qr-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 17.3px;
+  line-height: 24px;
+}
+.benefit-description,
+.benefit1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.benefit-description {
+  align-self: stretch;
+  gap: 8px;
+}
+.benefit1 {
+  width: 281px;
+  gap: 12.5px;
+  font-size: 23.8px;
+}
+.svg-icon37 {
+  height: 60px;
+  width: 45.7px;
+  position: relative;
+}
+.svg-wrapper4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.heading-52 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.heading-5-easy-top-up-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 68px;
+}
+.anywhere-via-the,
+.without-wi-fi-or {
+  display: block;
+}
+.anywhere-via-the-container {
+  margin: 0;
+  height: 48px;
+  position: relative;
+  font-size: 17.2px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.benefit2,
+.frame-parent6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.benefit2 {
+  width: 266px;
+  gap: 12.5px;
+}
+.benefit-list,
+.benefits-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.benefit-list {
+  justify-content: flex-start;
+  gap: 72.3px;
+}
+.benefits-container {
+  justify-content: flex-end;
+  padding: 0 5px 0 0;
+  box-sizing: border-box;
+}
+.svg-icon38 {
+  height: 60px;
+  width: 60px;
+  position: relative;
+}
+.effortless-benefit-icon-contai {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+}
+.heading-53 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 105px;
+}
+.effortless-benefit-title {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 79px;
+}
+.no-need-to,
+.sim-card {
+  display: block;
+}
+.no-need-to-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 17.2px;
+  line-height: 24px;
+}
+.effortless-benefit-description,
+.effortless-benefit-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.effortless-benefit-description {
+  align-self: stretch;
+  gap: 8px;
+}
+.effortless-benefit-list {
+  width: 263px;
+  gap: 12.5px;
+  font-size: 24px;
+}
+.svg-icon39 {
+  height: 60px;
+  width: 60px;
+  position: relative;
+}
+.svg-wrapper5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+}
+.heading-54 {
+  flex: 1;
+  position: relative;
+  line-height: 28px;
+}
+.heading-5-always-ready-to-us-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 28px 0 29px;
+}
+.a-data-plan,
+.install-your-esim {
+  display: block;
+}
+.install-your-esim-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 17.2px;
+  line-height: 24px;
+}
+.effortless-benefit-list1,
+.frame-parent7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent7 {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 8px;
+}
+.effortless-benefit-list1 {
+  width: 285.4px;
+  align-items: flex-start;
+  padding: 0 6px 0 0;
+  box-sizing: border-box;
+  gap: 12.5px;
+}
+.svg-icon40 {
+  height: 60px;
+  width: 190.6px;
+  position: relative;
+}
+.multi-device-benefit-icon-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 31px 4.5px 30px;
+}
+.heading-55 {
+  flex: 1;
+  position: relative;
+  line-height: 28px;
+}
+.multi-device-benefit-title-con {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 59px 0 58px;
+}
+.laptop-with-windows,
+.smartphones-tablets-and1,
+.works-with-esim {
+  display: block;
+}
+.works-with-esim-container {
+  margin: 0;
+  position: relative;
+  font-size: 17.3px;
+  line-height: 24px;
+}
+.effortless-benefits,
+.multi-device-benefits {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.multi-device-benefits {
+  width: 258.4px;
+  flex-direction: column;
+  padding: 0 7px 0 0;
+  box-sizing: border-box;
+  gap: 8px;
+}
+.effortless-benefits {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 73.8px;
+  font-size: 23.8px;
+}
+.benefits-container-parent,
+.section17 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 34.5px;
+  max-width: 100%;
+  font-size: 24px;
+}
+.section17 {
+  align-self: stretch;
+  background-color: #008fa4;
+  align-items: center;
+  padding: 50px 22px 52px 20px;
+  box-sizing: border-box;
+  gap: 46.5px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  text-align: center;
+  font-size: 32px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1350px) {
+  .benefit-list {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 925px) {
+  .heading-12 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .benefit-list {
+    gap: 36px;
+  }
+  .effortless-benefits {
+    gap: 37px;
+  }
+  .benefits-container-parent {
+    gap: 17px;
+  }
+  .section17 {
+    gap: 23px;
+    padding-top: 32px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-12,
+  .heading-51 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .heading-51 {
+    line-height: 22px;
+  }
+  .benefit-title-container {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .heading-52 {
+    font-size: 19px;
+    line-height: 22px;
+  }
+  .heading-5-easy-top-up-wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .benefit-list {
+    gap: 18px;
+  }
+  .heading-53 {
+    font-size: 19px;
+    line-height: 22px;
+  }
+  .effortless-benefit-title {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .heading-54,
+  .heading-55 {
+    font-size: 19px;
+    line-height: 22px;
+  }
+  .multi-device-benefit-title-con {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .effortless-benefits {
+    gap: 18px;
+  }
+}

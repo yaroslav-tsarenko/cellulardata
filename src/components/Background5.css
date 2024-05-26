@@ -1,0 +1,293 @@
+.great2 {
+  width: 45.8px;
+  position: relative;
+  line-height: 18px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 45.8px;
+}
+.img-icon9 {
+  align-self: stretch;
+  width: 100px;
+  position: relative;
+  max-height: 100%;
+  min-height: 18px;
+}
+.img-icon10 {
+  height: 17.7px;
+  width: 68px;
+  position: relative;
+}
+.backgroundshadow9 {
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.25);
+  border-radius: 8px 8px 0 0;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 14px 31px 15.7px;
+  gap: 11.6px;
+  z-index: 3;
+}
+.screen-step-1-1png-icon {
+  position: absolute;
+  top: 0;
+  left: 12px;
+  width: 241px;
+  height: 480px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.backgroundborder2 {
+  position: absolute;
+  top: 221px;
+  left: 0;
+  border-radius: 60px;
+  background-color: #e41c68;
+  border: 8px solid #e41c68;
+  box-sizing: border-box;
+  width: 120px;
+  height: 120px;
+  z-index: 1;
+}
+.screenshot-border {
+  height: 446px;
+  width: 253px;
+  position: relative;
+  min-width: 253px;
+}
+.backgroundshadow-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 27.5px;
+  max-width: 100%;
+}
+.button14 {
+  width: 15px;
+  height: 15px;
+  position: relative;
+  border-radius: 50px;
+  background-color: #008fa4;
+  z-index: 2;
+}
+.button-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 10px 0 0;
+}
+.button15 {
+  height: 15px;
+  width: 15px;
+  position: relative;
+  border-radius: 50px;
+  border: 2px solid #707070;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.heading-33 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 300;
+  font-family: inherit;
+}
+.on-your-smartphone-or-tablet,
+.open-your-ubigi-selfcare-app {
+  display: block;
+}
+.open-your-ubigi-selfcare-app-container {
+  margin: 0;
+  position: relative;
+  line-height: 26px;
+}
+.if-you-do-not-have-the-app-yo {
+  display: block;
+}
+.ubigime {
+  text-decoration: underline;
+  color: #008fa4;
+}
+.browser,
+.your-ubigi-account-on-ubigime {
+  display: block;
+}
+.if-you-do-not-have-container {
+  margin: 0;
+  position: relative;
+  line-height: 26px;
+}
+.app-download-description,
+.app-download-heading {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.app-download-description {
+  gap: 24px;
+  font-size: 19.2px;
+}
+.app-download-heading {
+  gap: 27.5px;
+}
+.button16,
+.button17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50px;
+  border: 2px solid #707070;
+  box-sizing: border-box;
+  width: 15px;
+  height: 15px;
+  z-index: 2;
+}
+.button17 {
+  left: 35px;
+}
+.button-parent {
+  height: 15px;
+  flex: 1;
+  position: relative;
+}
+.app-download-heading-parent,
+.app-download-link {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.app-download-link {
+  width: 70px;
+  flex-direction: row;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+.app-download-heading-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 117.5px;
+  min-width: 273px;
+  max-width: 100%;
+}
+.frame-parent10 {
+  width: 480.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 10px;
+  max-width: 100%;
+}
+.app-download {
+  width: 540.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 26px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 28px;
+  color: #000;
+  font-family: "Open Sans";
+}
+.image-icon12 {
+  height: 60px;
+  width: 31px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.image-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 40px;
+}
+.container-icon2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 3;
+}
+.frame-parent11 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 145.5px;
+}
+.background29,
+.image-container {
+  display: flex;
+  box-sizing: border-box;
+}
+.image-container {
+  height: 284.5px;
+  width: 160px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 15px;
+}
+.background29 {
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 85px 20px 119px;
+  background-image: url(/public/background7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  gap: 20px;
+  text-align: center;
+  font-size: 18px;
+  color: #191919;
+  font-family: "Helvetica Neue";
+}
+@media screen and (max-width: 900px) {
+  .screenshot-border {
+    flex: 1;
+  }
+  .backgroundshadow-parent {
+    flex-wrap: wrap;
+  }
+  .background29 {
+    padding-top: 55px;
+    padding-bottom: 77px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-33 {
+    font-size: 22px;
+    line-height: 29px;
+  }
+  .app-download-heading-parent {
+    gap: 59px;
+  }
+  .frame-parent10 {
+    flex-wrap: wrap;
+  }
+}

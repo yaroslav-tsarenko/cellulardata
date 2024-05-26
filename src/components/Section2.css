@@ -1,0 +1,219 @@
+.heading-38 {
+  flex: 1;
+  position: relative;
+  line-height: 38px;
+}
+.choose-data-plan-container {
+  width: 874.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 2px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.svg-icon33 {
+  height: 60px;
+  width: 60.2px;
+  position: relative;
+}
+.data-plan-steps {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+}
+.heading-48 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.and-receive-it,
+.qr-code-via,
+.quick {
+  margin: 0;
+}
+.and-receive-it-container {
+  position: relative;
+  line-height: 22px;
+}
+.select-plan-description {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 44px 0 43px;
+  font-size: 17.3px;
+  color: #212529;
+}
+.select-data-plan-container,
+.select-plan-instructions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.select-data-plan-container {
+  width: 235px;
+  gap: 23px;
+  min-width: 235px;
+}
+.svg-icon34 {
+  height: 60px;
+  width: 60.2px;
+  position: relative;
+}
+.scan-q-r-icons {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+}
+.heading-49 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.scan-q-r-label {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 17px;
+}
+.install-the-ubigi,
+.simple,
+.to-activate-the {
+  display: block;
+}
+.to-activate-the-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 17.3px;
+  line-height: 22px;
+  color: #212529;
+}
+.scan-q-r-instructions1,
+.scan-q-r-label-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.scan-q-r-label-container {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 4px;
+}
+.scan-q-r-instructions1 {
+  width: 230.2px;
+  align-items: flex-start;
+  gap: 23px;
+  min-width: 230.19999999999985px;
+}
+.activation-steps,
+.section16,
+.select-data-plan-container-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.activation-steps {
+  width: 577px;
+  justify-content: flex-start;
+  gap: 63.1px;
+  min-width: 577px;
+}
+.section16,
+.select-data-plan-container-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 24px;
+  color: #000;
+}
+.section16 {
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 60px 498px 54px 522px;
+  box-sizing: border-box;
+  gap: 50px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  text-align: center;
+  font-size: 31.9px;
+  color: #212529;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1850px) {
+  .activation-steps {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .activation-steps,
+  .select-data-plan-container {
+    flex: 1;
+  }
+  .select-data-plan-container-parent {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .section16 {
+    padding-left: 261px;
+    padding-right: 249px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .heading-38 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .scan-q-r-instructions1 {
+    flex: 1;
+  }
+  .activation-steps {
+    flex-wrap: wrap;
+    gap: 32px;
+  }
+  .section16 {
+    gap: 25px;
+    padding-left: 130px;
+    padding-right: 124px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-38 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .heading-48,
+  .heading-49 {
+    font-size: 19px;
+    line-height: 22px;
+  }
+  .activation-steps {
+    gap: 16px;
+  }
+  .section16 {
+    padding-top: 39px;
+    padding-bottom: 35px;
+    box-sizing: border-box;
+  }
+}

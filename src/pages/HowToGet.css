@@ -1,0 +1,209 @@
+.background-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.background10,
+.go-to-the {
+  position: absolute;
+  height: 24px;
+}
+.go-to-the {
+  top: 0;
+  left: 20px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  width: 234px;
+}
+.background10 {
+  top: 3.3px;
+  left: 40px;
+  background-color: #fff;
+  width: 273.6px;
+  white-space: nowrap;
+}
+.background9 {
+  position: absolute;
+  top: 32px;
+  left: 35px;
+  width: 447.5px;
+  height: 40px;
+  background-image: url(/public/background4@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  color: #000;
+}
+.background-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.background12,
+.go-to-top {
+  position: absolute;
+  height: 24px;
+}
+.go-to-top {
+  top: 0;
+  left: 20px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  width: 109.1px;
+  min-width: 109.1px;
+}
+.background12 {
+  top: 3.3px;
+  left: 40px;
+  background-color: #fff;
+  width: 147.9px;
+  white-space: nowrap;
+}
+.background11 {
+  position: absolute;
+  top: 32px;
+  left: 502.5px;
+  width: 447.5px;
+  height: 40px;
+  background-image: url(/public/background5@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.background-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.choose-your-data {
+  position: absolute;
+  top: 0;
+  left: 20px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  width: 190px;
+  height: 24px;
+}
+.background14 {
+  position: absolute;
+  top: 3.3px;
+  left: 40px;
+  background-color: #fff;
+  width: 229.3px;
+  height: 24px;
+  white-space: nowrap;
+}
+.background-icon3,
+.background13 {
+  position: absolute;
+  top: 32px;
+  height: 40px;
+}
+.background13 {
+  left: 970px;
+  width: 447.5px;
+  background-image: url(/public/background6@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.background-icon3 {
+  left: 1437.5px;
+  width: 40px;
+  object-fit: cover;
+}
+.make-a-payment {
+  position: absolute;
+  top: 35.3px;
+  left: 1497.5px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  width: 140px;
+  height: 24px;
+}
+.horizontal-divider1 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.05);
+  background-color: #fff;
+  flex-shrink: 0;
+  display: none;
+}
+.background-icon4 {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  margin-top: -1px;
+}
+.background-parent,
+.background15,
+.howtoget {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background-parent {
+  align-self: stretch;
+  flex-direction: column;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.background15,
+.howtoget {
+  box-sizing: border-box;
+}
+.background15 {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: 97px 0 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.howtoget {
+  width: 100%;
+  height: 1200px;
+  position: relative;
+  background: linear-gradient(#000, #000), #fff;
+  overflow-y: auto;
+  flex-direction: column;
+  padding: 0 0 629px;
+  gap: 0.3px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 18px;
+  color: #bebebe;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1725px) {
+  .howtoget {
+    height: auto;
+  }
+}
+@media screen and (max-width: 900px) {
+  .background15 {
+    padding-top: 63px;
+    box-sizing: border-box;
+  }
+}

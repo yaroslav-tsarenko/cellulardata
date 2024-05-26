@@ -1,0 +1,308 @@
+.steps-11svg-icon {
+  width: 40.1px;
+  height: 40px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.heading-32 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28px;
+  font-weight: 300;
+  font-family: inherit;
+}
+.browse-our-catalog {
+  text-decoration: underline;
+}
+.to-buy-a {
+  color: #000;
+}
+.link-browse-container {
+  position: relative;
+  font-size: 17.2px;
+  line-height: 22px;
+  color: #008fa4;
+}
+.heading-3-get-your-qr-code-f-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  max-width: 100%;
+}
+.you-will-receive {
+  margin: 0;
+  position: relative;
+  line-height: 20px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.email-delivery {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  min-width: 250px;
+  max-width: 100%;
+}
+.please-allow-15 {
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+  font-style: italic;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.email-instructions {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  row-gap: 20px;
+  font-size: 13.6px;
+}
+.customer,
+.for-receipt-of {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  font-style: italic;
+}
+.for-receipt-of {
+  max-width: 100%;
+}
+.customer {
+  text-decoration: underline;
+  color: #008fa4;
+  min-width: 60px;
+  z-index: 1;
+  margin-left: -0.2px;
+}
+.spam-check {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: 20px;
+  max-width: 100%;
+}
+.service {
+  text-decoration: underline;
+  font-style: italic;
+  color: #008fa4;
+  min-width: 43.6px;
+}
+.placeholder,
+.placeholder1,
+.service {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.placeholder {
+  font-size: 11.8px;
+  min-width: 3.8px;
+}
+.placeholder1 {
+  min-width: 4px;
+}
+.email-content,
+.service-info {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.email-content {
+  width: 538.8px;
+  flex-direction: column;
+  max-width: 100%;
+}
+.image-icon10 {
+  width: 31px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 2;
+}
+.q-r-code-image {
+  height: 95.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 35.5px 0 0;
+  box-sizing: border-box;
+}
+.email-info {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 14px;
+}
+.email-info,
+.q-r-code-content,
+.q-r-code-instructions {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.q-r-code-instructions {
+  width: 900px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 75px 0 0;
+  box-sizing: border-box;
+  position: relative;
+  gap: 29.5px;
+}
+.q-r-code-content {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.button3 {
+  height: 15px;
+  width: 15px;
+  position: relative;
+  border-radius: 50px;
+  background-color: #008fa4;
+  z-index: 2;
+}
+.button10,
+.button11,
+.button4,
+.button5,
+.button6,
+.button7,
+.button8,
+.button9 {
+  height: 15px;
+  width: 15px;
+  position: relative;
+  border-radius: 50px;
+  border: 2px solid #707070;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.button-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.button12 {
+  height: 46px;
+  width: 77.1px;
+  z-index: 3;
+}
+.next-button-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+}
+.background25,
+.background26,
+.container22,
+.navigation-buttons {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navigation-buttons {
+  width: 295px;
+  flex-direction: column;
+  gap: 25px;
+}
+.background25,
+.background26,
+.container22 {
+  max-width: 100%;
+}
+.background26 {
+  flex: 1;
+  flex-direction: column;
+  padding: 120px 60px 54px 812px;
+  box-sizing: border-box;
+  gap: 180px;
+  background-image: url(/public/background3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.background25,
+.container22 {
+  overflow: hidden;
+  flex-direction: row;
+}
+.container22 {
+  flex: 1;
+}
+.background25 {
+  align-self: stretch;
+  background-color: #fff;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1225px) {
+  .email-info {
+    flex-wrap: wrap;
+  }
+  .background26 {
+    gap: 90px;
+    padding-left: 406px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .email-instructions,
+  .spam-check {
+    flex-wrap: wrap;
+  }
+  .button3 {
+    width: 100%;
+  }
+  .button-container {
+    flex-wrap: wrap;
+  }
+  .background26 {
+    gap: 45px;
+    padding-left: 203px;
+    padding-top: 78px;
+    padding-bottom: 35px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-32 {
+    font-size: 19px;
+    line-height: 22px;
+  }
+  .customer {
+    margin-left: 0;
+  }
+}

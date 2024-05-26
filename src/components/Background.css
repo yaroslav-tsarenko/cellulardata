@@ -1,0 +1,298 @@
+.group-icon {
+  height: calc(100% - 0.1px);
+  width: 56.6px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0.1px;
+  max-height: 100%;
+  object-fit: contain;
+}
+.groupe-5170-icon {
+  height: 12.4px;
+  width: 102.9px;
+  position: relative;
+}
+.newsletter-element-leftsvg {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 39.2px 0 12.4px;
+  position: relative;
+}
+.newsletter-element-leftsvg-wrapper {
+  width: 168px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 5.5px;
+  box-sizing: border-box;
+}
+.ubigis-newsletter {
+  position: relative;
+  line-height: 38px;
+}
+.newsletter-left-element {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 37px 0 0;
+  box-sizing: border-box;
+  gap: 9.6px;
+  max-width: 100%;
+}
+.enter-your-email {
+  position: relative;
+  font-weight: 300;
+}
+.email-input,
+.input1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input1 {
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #fff;
+  flex-direction: row;
+  padding: 10px 14px;
+  white-space: nowrap;
+}
+.email-input {
+  width: 345.6px;
+  flex-direction: column;
+  padding: 22px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 18px;
+  color: #868e96;
+}
+.newsletter-element-rightsvg-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.newsletter-element-rightsvg-wrapper {
+  height: 81px;
+  width: 322.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.newsletter-left-element-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.and-our-latest-data-plan,
+.get-fresh-news {
+  display: block;
+}
+.get-fresh-news-container {
+  margin: 0;
+  position: relative;
+  line-height: 22px;
+  font-weight: 300;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.image-icon9 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.image-icon9,
+.image-parent,
+.yes-send-me {
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.yes-send-me {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.image-parent {
+  flex-direction: row;
+  gap: 12px;
+}
+.checkbox,
+.get-fresh-news-about-ubigi-ou-parent,
+.image-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.checkbox {
+  flex-direction: column;
+  padding: 2px 0 0;
+}
+.get-fresh-news-about-ubigi-ou-parent {
+  flex-direction: row;
+  gap: 132.6px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.subscribe {
+  position: relative;
+  line-height: 27px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 94px;
+}
+.frame-parent6,
+.input2 {
+  display: flex;
+  flex-direction: row;
+}
+.input2 {
+  width: 145.7px;
+  border-radius: 30px;
+  background-color: #000;
+  border: 2px solid #000;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7px 22px 8px 26px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  text-align: center;
+  font-family: "Open Sans";
+}
+.frame-parent6 {
+  width: 1085.5px;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.newsletter-description {
+  width: 1311.5px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  font-size: 18px;
+  font-family: Roboto;
+}
+.newsletter-content,
+.newsletter-description,
+.newsletter-form {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.newsletter-form {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.newsletter-content {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 34px 0 0;
+  box-sizing: border-box;
+}
+.click-here {
+  text-decoration: underline;
+}
+.your-email-address-container1 {
+  width: 100%;
+}
+.your-email-address-container {
+  margin: 0;
+  width: 1282.7px;
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 300;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.background17 {
+  align-self: stretch;
+  background-color: #e41c68;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 38px 315px 41.5px 194px;
+  box-sizing: border-box;
+  gap: 37.5px;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+  text-align: left;
+  font-size: 31.8px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1725px) {
+  .newsletter-left-element-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .frame-parent6,
+  .get-fresh-news-about-ubigi-ou-parent {
+    flex-wrap: wrap;
+  }
+  .background17 {
+    padding-left: 97px;
+    padding-right: 157px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .ubigis-newsletter {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .newsletter-left-element {
+    flex-wrap: wrap;
+  }
+  .get-fresh-news-about-ubigi-ou-parent {
+    gap: 66px;
+  }
+  .background17 {
+    gap: 19px;
+    padding-left: 48px;
+    padding-right: 78px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .ubigis-newsletter {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .get-fresh-news-about-ubigi-ou-parent {
+    gap: 33px;
+  }
+}

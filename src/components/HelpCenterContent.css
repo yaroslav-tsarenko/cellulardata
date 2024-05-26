@@ -1,0 +1,309 @@
+.heading-11 {
+  width: 216.1px;
+  position: relative;
+  line-height: 48px;
+  align-items: center;
+  flex-shrink: 0;
+}
+.heading-11,
+.heading-22,
+.help-center-title {
+  display: flex;
+  justify-content: center;
+}
+.help-center-title {
+  width: 946.1px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.heading-22 {
+  margin: 0;
+  width: 661.7px;
+  position: relative;
+  line-height: 21.6px;
+  align-items: center;
+  flex-shrink: 0;
+}
+.help-center-subheading {
+  width: 945.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 17.2px;
+  color: #000;
+}
+.form-input {
+  border: 0;
+  background-color: transparent;
+  height: 85.6px;
+  width: 450px;
+  font-family: "Open Sans";
+  font-size: 18px;
+  color: gray;
+  max-width: 100%;
+}
+.search-container {
+  width: 946.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.faq-iconsvg {
+  height: 56.3px;
+  width: 60px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.faq-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.heading-34 {
+  text-decoration: none;
+  position: relative;
+  line-height: 38px;
+  color: inherit;
+  display: inline-block;
+  min-width: 61px;
+}
+.faq-content {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 21px;
+}
+.the-ubigi-offer-and-support,
+.what-you-need {
+  display: block;
+}
+.what-you-need-container {
+  margin: 0;
+  position: relative;
+  font-size: 17.3px;
+  line-height: 22px;
+  color: #000;
+}
+.link9 {
+  height: 44.2px;
+  flex: 1;
+}
+.faq-link-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 72px;
+}
+.faq-container-parent {
+  width: 291.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19.3px;
+}
+.troubleshooting-iconsvg {
+  height: 60px;
+  width: 60px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.troubleshooting-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 21px;
+}
+.heading-35 {
+  position: relative;
+  line-height: 38px;
+}
+.following-detailed-instruction,
+.resolve-a-connectivity-issue {
+  display: block;
+}
+.resolve-a-connectivity-issue-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 17.2px;
+  line-height: 22px;
+  color: #000;
+}
+.link10 {
+  height: 44.2px;
+  flex: 1;
+}
+.troubleshooting-link-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 70px 0 71px;
+}
+.troubleshooting-container {
+  width: 268px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 22px 0 0;
+  box-sizing: border-box;
+  gap: 19.3px;
+  font-size: 31.8px;
+}
+.tutorials-iconsvg {
+  height: 60px;
+  width: 60px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.tutorials-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.heading-36 {
+  position: relative;
+  line-height: 38px;
+  display: inline-block;
+  min-width: 129px;
+}
+.tutorials-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 58px;
+}
+.all-our-official,
+.how-to-use-ubigi {
+  display: block;
+}
+.all-our-official-container {
+  margin: 0;
+  height: 44px;
+  position: relative;
+  font-size: 17.2px;
+  line-height: 22px;
+  color: #000;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.link11 {
+  height: 44.2px;
+  flex: 1;
+}
+.tutorials-container,
+.tutorials-link-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tutorials-link-container {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 20px 0 19px;
+}
+.tutorials-container {
+  width: 246.3px;
+  flex-direction: column;
+  gap: 19.3px;
+  font-size: 31.6px;
+}
+.frame-parent12 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 31.4px;
+}
+.help-center-wrapper2 {
+  width: 968.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 13.2px;
+  max-width: 100%;
+}
+.help-center-content {
+  width: 1897.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: 39.8px;
+  color: #008fa4;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 900px) {
+  .heading-11 {
+    font-size: 32px;
+    line-height: 38px;
+  }
+  .heading-34,
+  .heading-35,
+  .heading-36 {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .frame-parent12 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-11 {
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .heading-34 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .faq-link-container {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .heading-35,
+  .heading-36 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

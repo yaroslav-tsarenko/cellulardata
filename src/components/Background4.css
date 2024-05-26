@@ -1,0 +1,148 @@
+.we-accept-major-international {
+  width: 798.5px;
+  position: absolute;
+  margin: 0 !important;
+  top: -40px;
+  right: 560.7px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.apple-paypng-icon {
+  height: 51.3px;
+  width: 125px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.visapng-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.payment-logos {
+  height: 53px;
+  width: 129.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 4px 0 0;
+  box-sizing: border-box;
+}
+.american-expresspng-icon,
+.mastercardpng-icon {
+  height: 53px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.mastercardpng-icon {
+  width: 67px;
+  object-fit: contain;
+  min-height: 53px;
+}
+.american-expresspng-icon {
+  width: 53px;
+  object-fit: cover;
+}
+.payment-logos1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 4px 0 0;
+}
+.paypalpng-icon {
+  height: 53px;
+  width: 162px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 53px;
+}
+.maestropng-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.maestropng-wrapper {
+  height: 52.6px;
+  width: 72.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 4px 0 0;
+  box-sizing: border-box;
+}
+.union-paypng-icon {
+  height: 53px;
+  width: 84.8px;
+  overflow: hidden;
+  object-fit: cover;
+  min-height: 53px;
+}
+.background30,
+.jcbsvg-icon,
+.union-paypng-icon {
+  position: relative;
+  flex-shrink: 0;
+}
+.jcbsvg-icon {
+  height: 53px;
+  width: 84.4px;
+  overflow: hidden;
+  min-height: 53px;
+}
+.background30 {
+  align-self: stretch;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 40px 434px 40px 423px;
+  debug_commit: bf4bc93;
+  gap: 20px;
+  text-align: center;
+  font-size: 34.5px;
+  color: #000;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1325px) {
+  .background30 {
+    padding-left: 211px;
+    padding-right: 217px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .we-accept-major-international {
+    font-size: 28px;
+    line-height: 32px;
+  }
+  .background30 {
+    padding-left: 105px;
+    padding-right: 108px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .we-accept-major-international {
+    font-size: 21px;
+    line-height: 24px;
+  }
+}

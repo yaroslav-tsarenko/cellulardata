@@ -1,0 +1,1659 @@
+.horizontal-divider {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  background-color: #fff;
+  flex-shrink: 0;
+  display: none;
+}
+.your-search-ubigi {
+  position: relative;
+}
+.form1,
+.input9 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.input9 {
+  flex: 1;
+  padding: 2px 30px 4px;
+  background-image: url(/public/input@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.form1 {
+  width: 1110px;
+  border-bottom: 1px solid #e3e3e3;
+  padding: 0 0 9px;
+}
+.background6,
+.heading-29 {
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.background6 {
+  align-self: stretch;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 30px 20px 0;
+  box-sizing: border-box;
+}
+.heading-29 {
+  position: relative;
+  line-height: 39px;
+  display: inline-block;
+}
+.device,
+.i-am-about {
+  margin: 0;
+}
+.i-am-about-container {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 8px 15px 0;
+  background-image: url(/public/link--heading-3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  font-size: 21px;
+}
+.frame-wrapper,
+.heading-2-getting-started-wi-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.heading-2-getting-started-wi-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 25.1px;
+  debug_commit: bf4bc93;
+}
+.frame-wrapper {
+  width: 1455px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  font-size: 30.8px;
+}
+.how-to-get {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-31 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  background-image: url(/public/link--heading-31@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.how-to-get1 {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-32 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 33px 15px 0;
+  background-image: url(/public/link--heading-32@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.how-to-get2 {
+  position: relative;
+  line-height: 26px;
+  font-weight: 600;
+}
+.link-heading-33 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 14px;
+  background-image: url(/public/link--heading-33@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 1;
+  margin-top: -0.1px;
+}
+.how-to-get3,
+.windows-11-laptop {
+  margin: 0;
+}
+.how-to-get-container1 {
+  width: 100%;
+}
+.how-to-get-container {
+  width: 693.9px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.link-heading-34,
+.reinstall {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.link-heading-34 {
+  flex-direction: row;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-34@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 2;
+  margin-top: -0.1px;
+}
+.reinstall {
+  flex-direction: column;
+}
+.device-equipped-with,
+.how-do-i {
+  margin: 0;
+}
+.how-do-i-container1 {
+  width: 100%;
+}
+.how-do-i-container {
+  width: 695.2px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 102%;
+}
+.link-heading-35 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-35@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+}
+.how-do-i1,
+.laptop-or-tablet {
+  margin: 0;
+}
+.how-do-i-container3 {
+  width: 100%;
+}
+.how-do-i-container2 {
+  width: 695.2px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 102%;
+}
+.link-heading-36 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-36@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+}
+.i-do-not,
+.to-install-my {
+  margin: 0;
+}
+.i-do-not-container1 {
+  width: 100%;
+}
+.i-do-not-container,
+.link-heading-37 {
+  display: flex;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.i-do-not-container {
+  width: 694.2px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.link-heading-37 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.3px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-37@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.i-do-not1,
+.iphone-to-install {
+  margin: 0;
+}
+.i-do-not-container2 {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.e-sim,
+.install-links,
+.link-heading-38 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-heading-38 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 14.4px 40px 15px 0;
+  background-image: url(/public/link--heading-38@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 1;
+  margin-top: -0.1px;
+}
+.e-sim,
+.install-links {
+  flex-direction: column;
+  max-width: 100%;
+}
+.e-sim {
+  align-self: stretch;
+}
+.install-links {
+  flex: 1;
+  min-width: 445px;
+}
+.install-container {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 85px;
+  max-width: calc(100% - 425px);
+  flex-shrink: 0;
+}
+.image-icon12 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.contact-title,
+.heading-210 {
+  display: flex;
+  justify-content: center;
+}
+.heading-210 {
+  width: 105.1px;
+  position: relative;
+  line-height: 33.6px;
+  font-weight: 600;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 105.1px;
+}
+.contact-title {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px 0 28px;
+}
+.you-havent-found-the-answers {
+  display: block;
+}
+.faq {
+  text-decoration: underline;
+  color: #008fa4;
+}
+.span {
+  color: #000;
+}
+.to-your-questions-in-assistanc {
+  display: block;
+}
+.you-havent-found-container {
+  margin: 0;
+  height: 43.6px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+}
+.contact-description {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 20px;
+  font-size: 15.4px;
+}
+.contact-us {
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  text-transform: uppercase;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 102.7px;
+}
+.contact-button,
+.link-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.link-button {
+  cursor: pointer;
+  border: 1px solid #008fa4;
+  padding: 5px 13px 11px 15px;
+  background-color: #008fa4;
+  width: 132.5px;
+  border-radius: 60px;
+  box-sizing: border-box;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.link-button:hover {
+  background-color: #1aa8bd;
+  border: 1px solid #1aa8bd;
+  box-sizing: border-box;
+}
+.contact-button {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px;
+}
+.border1,
+.contact,
+.how-to {
+  display: flex;
+  justify-content: flex-start;
+}
+.border1 {
+  align-self: stretch;
+  flex: 1;
+  border: 1px solid #e0e0e0;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 1px 0 16px;
+  gap: 9.7px;
+}
+.contact,
+.how-to {
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.contact {
+  height: 420.8px;
+  width: 325px;
+  flex-direction: column;
+  padding: 27.2px 0 0;
+  max-width: calc(100% - 1170px);
+  text-align: center;
+  font-size: 28px;
+}
+.how-to {
+  align-self: stretch;
+  height: 575.4px;
+  flex-direction: row;
+  padding: 0 0 136.4px;
+  gap: 100px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.how-to-reinstall,
+.windows-11-device {
+  margin: 0;
+}
+.how-to-reinstall-container1 {
+  width: 100%;
+}
+.how-to-reinstall-container {
+  width: 701.1px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 103%;
+}
+.link-heading-39 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-39@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.i-have-a,
+.on-it {
+  margin: 0;
+}
+.i-have-a-container1 {
+  width: 100%;
+}
+.i-have-a-container {
+  width: 702.8px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 103%;
+}
+.link-heading-310 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-310@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.i-have-a1,
+.profile-on-it {
+  margin: 0;
+}
+.i-have-a-container2 {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-311 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.3px 18px 15px 0;
+  background-image: url(/public/link--heading-311@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 2;
+}
+.day,
+.does-my-ubigi {
+  margin: 0;
+}
+.does-my-ubigi-container1 {
+  width: 100%;
+}
+.does-my-ubigi-container {
+  width: 691.3px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.link-heading-312,
+.reset-options {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.link-heading-312 {
+  flex-direction: row;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-34@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+  z-index: 3;
+  margin-top: -0.1px;
+}
+.reset-options {
+  flex-direction: column;
+}
+.again,
+.how-can-i {
+  margin: 0;
+}
+.how-can-i-container {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-313 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  background-image: url(/public/link--heading-35@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+}
+.i-lost-my {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-314 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  background-image: url(/public/link--heading-312@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 1;
+}
+.how-can-i1,
+.i-do-not2 {
+  margin: 0;
+}
+.how-can-i-container2 {
+  width: 100%;
+}
+.how-can-i-container1,
+.link-heading-315 {
+  display: flex;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.how-can-i-container1 {
+  width: 696.4px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+  max-width: 102%;
+}
+.link-heading-315 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-313@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  z-index: 2;
+  margin-top: -0.1px;
+}
+.i-have-several,
+.to-have-a {
+  display: block;
+}
+.i-have-several-container1 {
+  width: 100%;
+}
+.i-have-several-container {
+  margin: 0;
+  width: 693.7px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.link-heading-316,
+.lost {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.link-heading-316 {
+  flex-direction: row;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-314@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+  z-index: 3;
+  margin-top: -0.1px;
+}
+.lost {
+  align-self: stretch;
+  flex-direction: column;
+}
+.how-can-i2,
+.use-it-again {
+  margin: 0;
+}
+.how-can-i-container3 {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-317 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 16px 15px 0;
+  background-image: url(/public/link--heading-315@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.how-can-i3,
+.when-i-do {
+  margin: 0;
+}
+.how-can-i-container4 {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-318 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 4px 15px 0;
+  background-image: url(/public/link--heading-3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  z-index: 5;
+}
+.how-to-delete {
+  position: relative;
+  line-height: 26px;
+  font-weight: 600;
+}
+.link-heading-319 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 14px;
+  background-image: url(/public/link--heading-318@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  z-index: 8;
+}
+.frame-parent,
+.manage-account,
+.reset {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.reset {
+  width: 685px;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.frame-parent,
+.manage-account {
+  box-sizing: border-box;
+}
+.manage-account {
+  width: 1455px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  flex-shrink: 0;
+}
+.frame-parent {
+  width: 1495px;
+  height: 1866.1px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 1866px;
+  font-size: 21px;
+}
+.heading-211 {
+  position: relative;
+  line-height: 39px;
+  display: inline-block;
+  max-width: 100%;
+}
+.how-can-i4 {
+  position: relative;
+  line-height: 26px;
+  font-weight: 600;
+}
+.link-heading-320 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 14px;
+  background-image: url(/public/link--heading-323@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 2;
+}
+.how-can-i5 {
+  position: relative;
+  line-height: 26px;
+  font-weight: 600;
+}
+.link-heading-321 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 14px;
+  background-image: url(/public/link--heading-325@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 5;
+}
+.how-can-i6 {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-322 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  background-image: url(/public/link--heading-326@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 6;
+}
+.how-to-delete1 {
+  position: relative;
+  line-height: 26px;
+  font-weight: 600;
+}
+.link-heading-323,
+.reset-links {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-heading-323 {
+  flex-direction: row;
+  padding: 14.4px 0 14px;
+  background-image: url(/public/link--heading-327@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 7;
+}
+.reset-links {
+  flex-direction: column;
+  font-size: 21px;
+}
+.account-management,
+.reset-password {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.reset-password {
+  width: 685px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 25.1px;
+}
+.account-management {
+  width: 1455px;
+  flex-direction: row;
+  justify-content: center;
+}
+.heading-212 {
+  position: relative;
+  line-height: 39px;
+  display: inline-block;
+  max-width: 100%;
+}
+.how-can-i7,
+.ipad {
+  margin: 0;
+}
+.how-can-i-container5 {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-324 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 19px 15px 0;
+  background-image: url(/public/link--heading-316@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.device1,
+.how-can-i8 {
+  margin: 0;
+}
+.how-can-i-container6 {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-325 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 4px 15px 0;
+  background-image: url(/public/link--heading-317@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 1;
+}
+.how-can-i9,
+.windows-10-or {
+  margin: 0;
+}
+.how-can-i-container7 {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-326 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  background-image: url(/public/link--heading-328@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 2;
+}
+.i-paid-for,
+.what-should-i {
+  margin: 0;
+}
+.i-paid-for-container {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-327 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 33px 15px 0;
+  background-image: url(/public/link--heading-37@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 5;
+}
+.how-to-get4 {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-328,
+.purchase {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.link-heading-328 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 14.4px 0 15px;
+  background-image: url(/public/link--heading-325@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 6;
+}
+.purchase {
+  flex-direction: column;
+  font-size: 21px;
+}
+.buy,
+.data-plans1,
+.purchase {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.buy {
+  width: 685px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 25.1px;
+}
+.data-plans1 {
+  width: 1455px;
+  flex-direction: row;
+  justify-content: center;
+}
+.heading-213 {
+  position: relative;
+  line-height: 38.4px;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.i-restored-my,
+.work-what-to {
+  margin: 0;
+}
+.i-restored-my-container1 {
+  width: 100%;
+}
+.i-restored-my-container {
+  width: 695.2px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 102%;
+}
+.link-heading-329 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+}
+.how-do-i2,
+.on-my-android {
+  margin: 0;
+}
+.how-do-i-container4 {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-heading-330 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  background-image: url(/public/link--heading-36@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 2;
+}
+.my-esim-ubigi,
+.network-is-displayed,
+.should-i-do {
+  margin: 0;
+}
+.my-esim-ubigi-container {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.iphone-restore-options,
+.link-heading-331 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-heading-331 {
+  flex-direction: row;
+  padding: 14.4px 5px 15px 0;
+  background-image: url(/public/link--heading-332@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 3;
+  margin-top: -0.1px;
+}
+.iphone-restore-options {
+  flex-direction: column;
+}
+.dont-have-any,
+.my-ubigi-esim {
+  margin: 0;
+}
+.my-ubigi-esim-container {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-heading-332 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  background-image: url(/public/link--heading-315@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 4;
+}
+.but-i-cant,
+.mobile-data-is {
+  margin: 0;
+}
+.mobile-data-is-container {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-333 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 15px 15px 0;
+  background-image: url(/public/link--heading-3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 5;
+}
+.my-ubigi-esim1,
+.should-i-do1,
+.the-network-is {
+  margin: 0;
+}
+.my-ubigi-esim-container2 {
+  width: 100%;
+}
+.my-ubigi-esim-container1 {
+  width: 698.7px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 102%;
+}
+.link-heading-334 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-333@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  z-index: 8;
+}
+.i-can-not {
+  position: relative;
+  line-height: 26px;
+  font-weight: 600;
+}
+.link-heading-335 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 14px;
+  background-image: url(/public/link--heading-331@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 9;
+}
+.how-do-i3,
+.or-windows-11 {
+  margin: 0;
+}
+.how-do-i-container5 {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-336 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 8px 15px 0;
+  background-image: url(/public/link--heading-38@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 12;
+}
+.device-but-i,
+.my-ubigi-esim2 {
+  margin: 0;
+}
+.my-ubigi-esim-container3 {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-heading-337 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  background-image: url(/public/link--heading-39@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.ubigi-connection-is,
+.vpn-on-my {
+  margin: 0;
+}
+.ubigi-connection-is-container {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.iphone-data-restore,
+.link-heading-338,
+.new-iphone-restore {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-heading-338 {
+  flex-direction: row;
+  padding: 14.4px 10px 15px 0;
+  background-image: url(/public/link--heading-310@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 1;
+}
+.iphone-data-restore,
+.new-iphone-restore {
+  flex-direction: column;
+  max-width: 100%;
+}
+.iphone-data-restore {
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  font-size: 21px;
+}
+.new-iphone-restore {
+  gap: 25.7px;
+}
+.asking-other-questions,
+.service {
+  margin: 0;
+}
+.asking-other-questions-container {
+  position: relative;
+  line-height: 38.4px;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.how-to-use,
+.share-the-ubigi {
+  margin: 0;
+}
+.how-to-use-container {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-339 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 25px 15px 0;
+  background-image: url(/public/link--heading-338@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.how-can-i10 {
+  position: relative;
+  line-height: 26px;
+  font-weight: 600;
+}
+.link-heading-340 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 14px;
+  background-image: url(/public/link--heading-326@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  cursor: pointer;
+  z-index: 3;
+}
+.how-can-i11 {
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-341 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  background-image: url(/public/link--heading-341@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 6;
+}
+.other-questions,
+.phone-calls {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.phone-calls {
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  font-size: 21px;
+}
+.other-questions {
+  gap: 25.7px;
+  font-size: 30.8px;
+}
+.connection-issues,
+.other-questions,
+.restored-data {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.restored-data {
+  width: 685px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 47.2px;
+}
+.connection-issues {
+  width: 1455px;
+  flex-direction: row;
+  justify-content: center;
+  font-size: 30.9px;
+}
+.background7 {
+  align-self: stretch;
+  background-color: #fff;
+  padding: 47.3px 20px 0;
+  gap: 47.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+  text-align: left;
+  font-size: 30.8px;
+  color: #000;
+  font-family: "Open Sans";
+}
+.background7,
+.gettingstarted,
+.search {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.search {
+  align-self: stretch;
+  height: 5819.7px;
+  flex-shrink: 0;
+  padding: 0 0 4247.7px;
+  gap: 1px;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+  text-align: left;
+  font-size: 17.2px;
+  color: #8a8a8a;
+  font-family: "Open Sans";
+}
+.gettingstarted {
+  width: 100%;
+  height: 1200px;
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  overflow-y: auto;
+  padding: 0;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1325px) {
+  .install-container {
+    display: none;
+    gap: 42px;
+  }
+  .contact {
+    max-width: 100%;
+  }
+  .frame-parent {
+    padding-bottom: 788px;
+    box-sizing: border-box;
+  }
+  .background7 {
+    padding-top: 20px;
+    box-sizing: border-box;
+  }
+  .search {
+    padding-bottom: 759px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .heading-29 {
+    font-size: 25px;
+    line-height: 31px;
+  }
+  .install-links {
+    min-width: 100%;
+  }
+  .install-container {
+    gap: 21px;
+    max-width: 100%;
+  }
+  .contact {
+    display: none;
+  }
+  .frame-parent,
+  .how-to {
+    height: auto;
+    box-sizing: border-box;
+  }
+  .how-to {
+    gap: 50px;
+    padding-bottom: 89px;
+  }
+  .frame-parent {
+    padding-bottom: 512px;
+  }
+  .asking-other-questions-container,
+  .heading-211,
+  .heading-212,
+  .heading-213 {
+    font-size: 25px;
+    line-height: 31px;
+  }
+  .background7,
+  .restored-data {
+    gap: 24px;
+  }
+  .search {
+    padding-bottom: 493px;
+    box-sizing: border-box;
+  }
+  .gettingstarted,
+  .search {
+    height: auto;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-29 {
+    font-size: 18px;
+    line-height: 23px;
+  }
+  .how-do-i-container,
+  .how-do-i-container2,
+  .how-to-get,
+  .how-to-get-container,
+  .how-to-get1,
+  .how-to-get2,
+  .i-am-about-container,
+  .i-do-not-container,
+  .i-do-not-container2 {
+    font-size: 17px;
+    line-height: 20px;
+  }
+  .heading-210 {
+    font-size: 22px;
+    line-height: 27px;
+  }
+  .how-to {
+    gap: 25px;
+  }
+  .does-my-ubigi-container,
+  .how-can-i-container,
+  .how-can-i-container1,
+  .how-can-i-container3,
+  .how-can-i-container4,
+  .how-to-delete,
+  .how-to-reinstall-container,
+  .i-have-a-container,
+  .i-have-a-container2,
+  .i-have-several-container,
+  .i-lost-my {
+    font-size: 17px;
+    line-height: 20px;
+  }
+  .heading-211 {
+    font-size: 18px;
+    line-height: 23px;
+  }
+  .how-can-i4,
+  .how-can-i5,
+  .how-can-i6,
+  .how-to-delete1 {
+    font-size: 17px;
+    line-height: 20px;
+  }
+  .heading-212 {
+    font-size: 18px;
+    line-height: 23px;
+  }
+  .how-can-i-container5,
+  .how-can-i-container6,
+  .how-can-i-container7,
+  .how-to-get4,
+  .i-paid-for-container {
+    font-size: 17px;
+    line-height: 20px;
+  }
+  .heading-213 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .how-do-i-container4,
+  .how-do-i-container5,
+  .i-can-not,
+  .i-restored-my-container,
+  .mobile-data-is-container,
+  .my-esim-ubigi-container,
+  .my-ubigi-esim-container,
+  .my-ubigi-esim-container1,
+  .my-ubigi-esim-container3,
+  .ubigi-connection-is-container {
+    font-size: 17px;
+    line-height: 20px;
+  }
+  .asking-other-questions-container {
+    font-size: 18px;
+    line-height: 23px;
+  }
+  .how-can-i10,
+  .how-can-i11,
+  .how-to-use-container {
+    font-size: 17px;
+    line-height: 20px;
+  }
+}

@@ -1,0 +1,116 @@
+.background-icon8 {
+  height: 40px;
+  width: 40px;
+  position: relative;
+}
+.check-esim1,
+.profile-installation {
+  margin: 0;
+}
+.check-esim-profile-container1 {
+  position: relative;
+  line-height: 24px;
+}
+.background-wrapper1,
+.background34 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background34 {
+  background-color: #fff;
+  flex-direction: row;
+  padding: 0 19px 0 20px;
+}
+.background-wrapper1 {
+  flex-direction: column;
+  padding: 3.3px 0 0;
+}
+.container24,
+.content-container,
+.content-container1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container24 {
+  width: 311.7px;
+  padding: 32px 10px;
+  box-sizing: border-box;
+  color: #000;
+}
+.content-container,
+.content-container1 {
+  flex: 1;
+  min-width: 405px;
+  max-width: 100%;
+  row-gap: 20px;
+}
+.background-icon9 {
+  height: 40px;
+  width: 40px;
+  position: relative;
+}
+.final-checks {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 106px;
+}
+.background35 {
+  background-color: #fff;
+  flex-direction: row;
+  padding: 0 19px 0 20px;
+  white-space: nowrap;
+}
+.background-wrapper2,
+.background35,
+.backgroundshadow10,
+.container25 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background-wrapper2 {
+  flex-direction: column;
+  padding: 3.3px 0 0;
+}
+.backgroundshadow10,
+.container25 {
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.container25 {
+  width: 311.7px;
+  padding: 32px 10px 43.3px;
+}
+.backgroundshadow10 {
+  align-self: stretch;
+  box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.05);
+  background-color: #fff;
+  padding: 0 25px;
+  max-width: 100%;
+  row-gap: 20px;
+  z-index: 2;
+  text-align: left;
+  font-size: 18px;
+  color: #bebebe;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1725px) {
+  .content-container,
+  .content-container1 {
+    flex: 1;
+  }
+  .backgroundshadow10 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 900px) {
+  .content-container,
+  .content-container1 {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+}

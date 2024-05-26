@@ -1,0 +1,209 @@
+.link-svg16 {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: 5px;
+  width: 108px;
+  height: 44px;
+}
+.buy-an-esim1 {
+  text-decoration: none;
+  position: absolute;
+  top: 25.5px;
+  left: 11.2px;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  width: 190px;
+  height: 24px;
+  white-space: nowrap;
+}
+.vertical-divider4 {
+  position: absolute;
+  height: 42%;
+  top: 26.67%;
+  right: -10px;
+  bottom: 31.33%;
+  background-color: #2f2f2f;
+  width: 1px;
+}
+.item-link16 {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 389.3px);
+  top: 0;
+  right: 389.3px;
+  bottom: 0;
+  left: 0;
+}
+.get-started1 {
+  text-decoration: none;
+  position: absolute;
+  top: 25.5px;
+  left: 11.2px;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  width: 102px;
+  height: 24px;
+  min-width: 102px;
+  white-space: nowrap;
+}
+.vertical-divider5 {
+  position: absolute;
+  height: 42%;
+  top: 26.67%;
+  right: -10px;
+  bottom: 31.33%;
+  background-color: #2f2f2f;
+  width: 1px;
+}
+.item-link-menu {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 475.6px);
+  top: 0;
+  right: 250.7px;
+  bottom: 0;
+  left: 224.9px;
+}
+.top-up1 {
+  text-decoration: none;
+  position: absolute;
+  top: 25.5px;
+  left: 11.2px;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  width: 57px;
+  height: 24px;
+  min-width: 57px;
+  white-space: nowrap;
+}
+.vertical-divider6 {
+  position: absolute;
+  height: 42%;
+  top: 26.67%;
+  right: -9.9px;
+  bottom: 31.33%;
+  background-color: #2f2f2f;
+  width: 1px;
+}
+.item-link17 {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 519.5px);
+  top: 0;
+  right: 156.1px;
+  bottom: 0;
+  left: 363.4px;
+}
+.help-center1 {
+  text-decoration: none;
+  position: absolute;
+  top: 25.5px;
+  left: 11.2px;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  width: 103px;
+  height: 24px;
+  min-width: 103px;
+  white-space: nowrap;
+}
+.vertical-divider7 {
+  position: absolute;
+  height: 42%;
+  top: 26.67%;
+  right: -10px;
+  bottom: 31.33%;
+  background-color: #2f2f2f;
+  width: 1px;
+}
+.item-link-menu1,
+.nav-list {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.item-link-menu1 {
+  width: calc(100% - 473.6px);
+  right: 15.5px;
+  left: 458.1px;
+}
+.nav-list {
+  right: 1148.4px;
+  width: 598.6px;
+}
+.link-ubigi-cartsvg1 {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: 751.6px;
+  width: 675.5px;
+  height: 28px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.link3 {
+  left: 1441.1px;
+}
+.button5,
+.link-my-account1,
+.link3 {
+  position: absolute;
+  top: calc(50% - 22px);
+}
+.button5 {
+  left: 1581px;
+  font-family: Roboto;
+  font-size: 16px;
+  color: #000;
+}
+.link-my-account1 {
+  left: calc(50% + 810px);
+  border-radius: 30px;
+  width: 72px;
+  height: 44px;
+}
+.link-svg17 {
+  position: absolute;
+  top: 23px;
+  left: 1852px;
+  width: 28px;
+  height: 28px;
+}
+.container20 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 940px);
+  width: 1880px;
+}
+.background16,
+.header2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.background16 {
+  right: 0;
+  background-color: #000;
+  height: 100%;
+}
+.header2 {
+  height: 75px;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: "Open Sans";
+}

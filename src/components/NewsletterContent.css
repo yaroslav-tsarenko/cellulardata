@@ -1,0 +1,121 @@
+.group-icon1 {
+  height: calc(100% - 0.1px);
+  width: 56.6px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0.1px;
+  max-height: 100%;
+  object-fit: contain;
+}
+.groupe-5170-icon1 {
+  height: 12.4px;
+  width: 102.9px;
+  position: relative;
+}
+.newsletter-element-leftsvg3 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 39.2px 0 12.4px;
+  position: relative;
+}
+.newsletter-heading {
+  width: 168px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 5.5px;
+  box-sizing: border-box;
+}
+.ubigis-newsletter2 {
+  position: relative;
+  line-height: 38px;
+}
+.newsletter-title1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 37px 0 0;
+  box-sizing: border-box;
+  gap: 9.6px;
+  max-width: 100%;
+}
+.input15 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 44px;
+  font-family: "Open Sans";
+  font-weight: 300;
+  font-size: 18px;
+  color: #868e96;
+}
+.email-input1 {
+  width: 345.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 22px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.newsletter-element-rightsvg-icon2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.newsletter-element-rightsvg-wrapper {
+  height: 81px;
+  width: 322.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.newsletter-content {
+  width: 1375.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+  text-align: left;
+  font-size: 31.8px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1350px) {
+  .newsletter-content {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 925px) {
+  .ubigis-newsletter2 {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .newsletter-title1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .ubigis-newsletter2 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}
